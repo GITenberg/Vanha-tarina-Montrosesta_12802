@@ -1,0 +1,46 @@
+_repo: Vanha-tarina-Montrosesta_12802
+_version: 0.0.1
+alternative_title: A legend of Montrose. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, Gyula
+    - Krohn, Julius Leopold Fredrik
+    - Suonio
+    - Krohn, J. (Julius)
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2004-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12802'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Montrose, James Graham, Marquis of, 1612-1650 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Scotland -- History -- Charles I, 1625-1649 -- Fiction'
+- GITenberg
+title: Vanha tarina Montrosesta
+url: http://www.gutenberg.org/ebooks/12802
